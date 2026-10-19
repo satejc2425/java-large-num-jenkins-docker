@@ -39,7 +39,4 @@ pipeline {
         failure {
             echo 'Docker build or run failed.'
         }
-    }
-                                                                                                                                                                            1,10          Top
-
-
+    }                                                                                                                                                                        1,10         
