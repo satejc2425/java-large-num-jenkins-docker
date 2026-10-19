@@ -40,3 +40,4 @@ pipeline {
             echo 'Docker build or run failed.'
         }
     }                                                                                                                                                                        1,10         
+}
